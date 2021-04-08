@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+
+    background-color: #18181b;
+}
+
+canvas {
+    background-color: #27272a;
+}
